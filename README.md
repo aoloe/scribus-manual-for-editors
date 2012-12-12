@@ -1,0 +1,2 @@
+scribus-manual-for-editors
+==========================
